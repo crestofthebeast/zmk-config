@@ -1,0 +1,11 @@
+file_format: "1"
+id: brolga
+name: Brolga
+type: shield
+url: https://github.com/davidphilipbarr/Sweep
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - brolga_left
+  - brolga_right
